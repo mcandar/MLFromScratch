@@ -2,10 +2,10 @@
 
 **MLFromScratch is a project composed of a series of documents to help deeper understanding machine learning methods.** Thus, there are a number of methods **implemented from scratch as tutorials**. These tutorials include:
 
-**- Background theory and math**
-**- Python code**
-**- Visualization**
-**- Interpretation**
+* Background theory and math
+* Python code
+* Visualization
+* Interpretation
 
 in the form of jupyter notebooks. Although each document has a mild introduction, *this project expects a brief math, statistics and linear algebra background.*
 
